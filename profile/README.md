@@ -9,6 +9,7 @@
 * spring boot
 * spring data jpa
 * spring containers
+* spring actuators
 ### Postgres
 ### Apache Kafka
 ### VUE
